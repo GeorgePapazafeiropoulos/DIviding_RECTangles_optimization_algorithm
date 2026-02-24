@@ -25,6 +25,10 @@ One method for resolving BBO problems is DIRECT. For black-box functions with bo
 
 <img src="function_call_tree.png">
 
+## Algorithm diagram
+
+<img src="diagram.png">
+
 ## Algorithm Flowchart
 
 ``` 
@@ -135,7 +139,7 @@ Message: Converged (|f_change| < 0.0001)
 See LICENSE.
 
 ## Contributing
-We welcome contributions! Areas of particular interest are as mentioned in section 3 of reference [2]. A very good review of real-world applications of DIRECT-type algorithms in the literature can be found in Table 1 of reference [3], the details of which are presented in Table 2 of the same reference. Long way to go! Please see [CONTRIBUTING.md](https://contributing.md/) for guidelines.
+We welcome contributions! Areas of particular interest are as mentioned in section 3 of reference [2]. A very good review of real-world applications of DIRECT-type algorithms in the literature can be found in Table 1 of reference [3], the details of which are presented in Table 2 of the same reference. Long way to go! Please see CONTRIBUTING for guidelines.
 
 ## Support
 For questions, issues, or feature requests either open an issue on GitHub Issues or contact me directly through email at gpapazafeiropoulos@yahoo.gr
